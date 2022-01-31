@@ -25,8 +25,8 @@
 }
 
 .textArea {
-    width: 20rem;
-    height: 22rem;
+    width: 12rem;
+    height: 12rem;
 }
 
 .submit {
@@ -43,6 +43,8 @@
 .dropDown {
     display: inline;
     width: 10rem;
+    height: 2rem;
+    max-height: 2rem;
 }
 
 .title {
